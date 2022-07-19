@@ -16,6 +16,7 @@ public class MavenPracticeTest3
 		System.out.println(" this is pull to master practice");
 		System.out.println("new added things");
 		System.out.println("new added things1");
+		System.out.println("new added things1");
 		
 		
 	}
