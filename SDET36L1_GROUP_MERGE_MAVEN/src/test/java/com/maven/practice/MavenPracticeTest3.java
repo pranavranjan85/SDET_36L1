@@ -13,7 +13,8 @@ public class MavenPracticeTest3
 	public void practiceMavenTest1()
 	{
 		System.out.println("This is another practice");
-		System.out.println(" this is pull to master practice")
+		System.out.println(" this is pull to master practice");
+		System.out.println("changes happened");
 	}
 
 }
