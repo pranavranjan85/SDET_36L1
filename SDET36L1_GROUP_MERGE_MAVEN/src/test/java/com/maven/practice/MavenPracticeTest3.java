@@ -15,7 +15,8 @@ public class MavenPracticeTest3
 		System.out.println("This is another practice");
 		System.out.println(" this is pull to master practice");
 		System.out.println("changes happened");
-		//good
+		//good thing
+		//lets check
 	}
 
 }
